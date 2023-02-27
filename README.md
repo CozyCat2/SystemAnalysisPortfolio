@@ -1,2 +1,6 @@
-# SystemAnalysisPortfolio
-Example system analysis work from my system analysis college course at SNHU
+# System Analysis Portfolio
+Example system analysis work from my system analysis college course at SNHU. The pretend client for this project was a company called DriverPass that wanted to create an application that would assist people in studying and training for the DMV driving tests. What I did really well in this assignment is paying attention to all of the details that might need to be included in the project. 
+
+If I could improve my work in the documents I think I would have found a place to write down extra questions that I wished I could ask the client to better understand their requirements. What needs I was able to gather from the written interview with the company was the major sections of the progrom they wanted included in the final product. It's very important to meet those needs as it is the foundation of the entire project.
+
+  My biggest tool in desigining software is breaking down big ideas into smaller details by utilizing top down design. While top-down design helps me see what details are important for me as I plan the project, I should use a lot more communication tools with the company in my future projects to make sure I get all the details that the company wants as well. Using a communication cycle and understanding how it fits in with system design and analysis will greatly benefit my future projects.
